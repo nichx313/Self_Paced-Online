@@ -6,7 +6,7 @@ def name_error():
 
 
 def type_error():
-  return (4 + "C")
+  return 4 + "C"
 
 
 def syntax_error:
